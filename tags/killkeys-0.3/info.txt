@@ -1,0 +1,23 @@
+KillKeys
+http://killkeys.googlecode.com/
+recover89@gmail.com
+
+When enabled, keys specified in config.txt will be disabled.
+By default, both windows keys and the menu key are disabled when in fullscreen.
+Read config.txt for more info.
+
+You can use -hide as a parameter to hide the tray icon.
+
+Changelog
+---------
+0.3:
+Added option to disable keys in fullscreen.
+Removed restriction of 100 keys.
+Renamed log-keyhook.txt to killkeys-log.txt
+
+0.2:
+Renamed to KillKeys.
+Read keys from config.txt.
+
+0.1 (BETA):
+Initial release.
