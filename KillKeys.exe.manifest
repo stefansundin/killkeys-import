@@ -3,8 +3,9 @@
 <assemblyIdentity
 	version="1.0.0.0"
 	processorArchitecture="X86"
-	name="XP style"
+	name="KillKeys"
 	type="win32" />
+<description>KillKeys</description>
 <dependency>
 	<dependentAssembly>
 		<assemblyIdentity
