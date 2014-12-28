@@ -1,7 +1,5 @@
 #summary Directly from info.txt
 
-Check [http://killkeys.googlecode.com/svn/trunk/localization/en-US/info.txt info.txt] if there seems to be something missing. Note that info.txt can contain changes for upcoming versions.
-
 *1.2* - 2010-11-29:
   * Added 64-bit executable. The installer will automatically install the correct executable.
   * Fixed an issue in Windows 7 where the desktop would be treated as a fullscreen window.
